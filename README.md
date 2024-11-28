@@ -8,8 +8,8 @@ Mata kuliah : Bahasa Pemrograman <p>
 ![gambar 5](https://github.com/user-attachments/assets/350fe323-30a9-479e-b339-ca25d46ba559)
 
 ## Code Program
-![gambar 1](screenshot/ft1.png)
-![gambar 2](screenshot/ft2.png)
+![gambar 1](https://github.com/user-attachments/assets/559daf27-3c65-49be-8fd7-7697558ad6d9)
+![gambar 2](https://github.com/user-attachments/assets/12d88b8d-8206-4045-8a2b-dad085801afc)
 ### Penjelasan Program
 1. Header dan Kelas Student:
 
@@ -123,5 +123,5 @@ Mata kuliah : Bahasa Pemrograman <p>
      - **Hapus (```h```)**: Menghapus data mahasiswa berdasarkan NIM yang diberikan. Jika NIM ditemukan, data mahasiswa dihapus dari daftar students.
      - **Keluar (```k```)**: Keluar dari program.
 ## Output Program
-![gambar 3](screenshot/ft3.png)
-![gambar 4](screenshot/ft4.png)
+![gambar 3](https://github.com/user-attachments/assets/d30e93e7-f942-49fa-a790-8ecb1f09fe89)
+![gambar 4](https://github.com/user-attachments/assets/4bd1acd7-4ff0-495b-a017-349e0cb24c5f)
