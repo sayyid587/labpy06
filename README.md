@@ -118,8 +118,8 @@ Mata kuliah : Bahasa Pemrograman <p>
    - Program menampilkan menu dan menangani pilihan pengguna:
      - **Tambah (```t```)**: Menambah data mahasiswa baru ke dalam daftar ```students```.
      - **Lihat (```l```)**: Menampilkan daftar mahasiswa.
-     - **Ubah (```u```)**: Mengubah data mahasiswa berdasarkan NIM yang diberikan. Jika NIM ditemukan, data mahasiswa diperbarui dengan data baru.
-     - **Hapus (```h```)**: Menghapus data mahasiswa berdasarkan NIM yang diberikan. Jika NIM ditemukan, data mahasiswa dihapus dari daftar students.
+     - **Ubah (```u```)**: Mengubah data mahasiswa berdasarkan Nama yang diberikan. Jika Nama ditemukan, data mahasiswa diperbarui dengan data baru.
+     - **Hapus (```h```)**: Menghapus data mahasiswa berdasarkan Nama yang diberikan. Jika Nama ditemukan, data mahasiswa dihapus dari daftar students.
      - **Keluar (```k```)**: Keluar dari program.
 ## Output Program
 ![gambar 3](https://github.com/user-attachments/assets/a631119d-8212-4e08-990a-e6b11842ccbf)
