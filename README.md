@@ -8,8 +8,9 @@ Mata kuliah : Bahasa Pemrograman <p>
 ![gambar 5](https://github.com/user-attachments/assets/350fe323-30a9-479e-b339-ca25d46ba559)
 
 ## Code Program
-![gambar 1](https://github.com/user-attachments/assets/559daf27-3c65-49be-8fd7-7697558ad6d9)
-![gambar 2](https://github.com/user-attachments/assets/12d88b8d-8206-4045-8a2b-dad085801afc)
+![gambar 1](https://github.com/user-attachments/assets/5cf5b4a3-6d29-479b-98ec-e0436b605b3b)
+![gambar 2](https://github.com/user-attachments/assets/55f2f7c3-f843-4991-8f92-34c54a1907e3)
+
 ### Penjelasan Program
 1. Header dan Kelas Student:
 
