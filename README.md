@@ -12,7 +12,7 @@ Mata kuliah : Bahasa Pemrograman <p>
 
 ### Penjelasan Program
 1. Header dan Kelas Student:
-
+   
 ```python
        print("\nProgram Input Nilai")
        print("===================")
@@ -29,8 +29,8 @@ Mata kuliah : Bahasa Pemrograman <p>
            def calculate_final_grade(self):
                return round((self.tugas * 0.3) + (self.uts * 0.35) + (self.uas * 0.35), 2)
    ```
-      - Kode ini mencetak judul program dan mendefinisikan kelas ```Student``` yang memiliki atribut ```nim```, ```nama```, ```tugas```, ```uts```, ```uas```, dan ```akhir```.
-      - ```calculate_final_grade``` adalah metode yang menghitung nilai akhir berdasarkan bobot tugas (30%), UTS (35%), dan UAS (35%).
+   - Kode ini mencetak judul program dan mendefinisikan kelas ```Student``` yang memiliki atribut ```nim```, ```nama```, ```tugas```, ```uts```, ```uas```, dan ```akhir```.
+   - ```calculate_final_grade``` adalah metode yang menghitung nilai akhir berdasarkan bobot tugas (30%), UTS (35%), dan UAS (35%).
        
 2. Fungsi Menampilkan Menu dan Daftar Mahasiswa:
 
