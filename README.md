@@ -86,7 +86,7 @@ Mata kuliah : Bahasa Pemrograman <p>
                    display_students(students)
                elif choice == 'u':
                    display_students(students)
-                   nim = input("\nMasukkan nama mahasiswa yang akan diubah: ")
+                   nama = input("\nMasukkan nama mahasiswa yang akan diubah: ")
                    index = find_student_index(students, nama)
                    if index is not None:
                        print("Data baru:")
@@ -99,7 +99,7 @@ Mata kuliah : Bahasa Pemrograman <p>
                        print("Mahasiswa dengan NIM tersebut tidak ditemukan.")
                elif choice == 'h':
                    display_students(students)
-                   nim = input("\nMasukkan nama mahasiswa yang akan dihapus: ")
+                   nama = input("\nMasukkan nama mahasiswa yang akan dihapus: ")
                    index = find_student_index(students, nama)
                    if index is not None:
                        del students[index]
@@ -124,5 +124,5 @@ Mata kuliah : Bahasa Pemrograman <p>
      - **Hapus (```h```)**: Menghapus data mahasiswa berdasarkan NIM yang diberikan. Jika NIM ditemukan, data mahasiswa dihapus dari daftar students.
      - **Keluar (```k```)**: Keluar dari program.
 ## Output Program
-![gambar 3](https://github.com/user-attachments/assets/d30e93e7-f942-49fa-a790-8ecb1f09fe89)
-![gambar 4](https://github.com/user-attachments/assets/4bd1acd7-4ff0-495b-a017-349e0cb24c5f)
+![gambar 3](https://github.com/user-attachments/assets/a631119d-8212-4e08-990a-e6b11842ccbf)
+![gambar 4](https://github.com/user-attachments/assets/9f731c3a-bd5b-41f2-87d0-269e325957a3)
